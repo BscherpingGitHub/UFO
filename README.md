@@ -10,6 +10,7 @@ Or I want to look at a UFO siting on January 5, 2010 in the shape of a cigar.<br
 ## Summary
 Drawback
 - One drawback I see is the auto fill. Someone might think these places are filled or will get confused thinking they already have inputs. <br/>
+
 Recommendations
 - Add a function to update the data. Where people can input recent sightings so the data can always be updated. 
 - Add a spot for videos. People would be able to watch videos of the sightings. 
